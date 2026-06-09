@@ -1,0 +1,8 @@
+"Name","Trust Factor","Happiness Level","Friends"
+"Hana Tanaka","0.1","5","Lee Mansoor:10, Joe Smoe:6"
+"Lee Mansoor","0.7","6","Isabella Gomez:7, Hana Tanaka:10, Zuri Kenyatta:2"
+"Harper Vance","0.46","2","Isabella Gomez:5"
+"Isabella Gomez","0.98","9","Harper Vance:5, Lee Mansoor:7, Zuri Kenyatta:8"
+"Zuri Kenyatta","0.23","6","Isabella Gomez:8, Lee Mansoor:2"
+"Joe Smoe", "0.5","4","Hana Tanaka:6, Damien:3"
+"Damien", ".6", "5", "Joe Smoe:3"
