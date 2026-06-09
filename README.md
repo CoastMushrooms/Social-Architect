@@ -17,7 +17,6 @@ The project consists of:
 - StudentLoader.java - CSV file parser
 - Students.csv - Student data file
 All files must be in the same directory.
- 
 ## Setup
  
 1. Create a project folder.
@@ -32,11 +31,6 @@ javac *.java
 ```
  
 This compiles all Java files. If successful, you will see no output.
- 
-If compilation fails, check that:
-- All .java files are in the same directory
-- Java is installed and in your PATH
-- No syntax errors in the files
 ## Running the Game
  
 After successful compilation, run:
@@ -46,7 +40,6 @@ java MainFrame
 ```
  
 The game window will open. You should see the start screen.
- 
 ## Game Controls
  
 - Click on a student node in the network to select them.
@@ -57,21 +50,6 @@ The game window will open. You should see the start screen.
   - Break Friendship - End a bond
 - Click End Day to advance to the next day.
 - Game ends after 3 weeks.
-## Troubleshooting
- 
-If the program fails to start:
- 
-1. Check that Students.csv is in the same directory as the .class files.
-2. Check console output for error messages.
-3. Ensure Java version is 8 or higher: `java -version`
-If the window does not open:
- 
-1. Check that your system has a display (not a headless server).
-2. Try running from a different directory.
-If bonds and nodes are not visible:
- 
-1. Resize the window - nodes are positioned based on window size.
-2. Wait a moment for the network to render.
 ## Game Rules
  
 - You have 5 action points per day.
