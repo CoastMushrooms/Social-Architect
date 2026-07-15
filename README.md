@@ -7,15 +7,15 @@
 ## Project Files
  
 The project consists of:
-- GameState.java - Game logic and mechanics
-- MainFrame.java - Entry point and window setup
-- RightControlPanel.java - UI for actions and information
-- SocialNetworkPanel.java - Network visualization
-- StartScreen.java - Title screen
-- EndScreen.java - Game over screen
-- Student.java - Student data model
-- StudentLoader.java - CSV file parser
-- Students.csv - Student data file
+- GameState.java — Game logic and mechanics
+- MainFrame.java — Entry point and window setup
+- RightControlPanel.java — UI for actions and information
+- SocialNetworkPanel.java — Network visualization
+- StartScreen.java — Title screen
+- EndScreen.java — Game over screen
+- Student.java — Student data model
+- StudentLoader.java — CSV file parser
+- Students.csv — Student data file
 All files must be in the same directory.
 ## Setup
  
@@ -44,10 +44,10 @@ The game window will open. You should see the start screen.
  
 - Click on a student node in the network to select them.
 - Use the action buttons on the right panel to perform actions:
-  - Host Event - Create or strengthen friendships
-  - Send Gift - Increase student happiness
-  - Reinforce Bond - Strengthen existing friendship
-  - Break Friendship - End a bond
+  - Host Event — Create or strengthen friendships
+  - Send Gift — Increase student happiness
+  - Reinforce Bond — Strengthen existing friendship
+  - Break Friendship — End a bond
 - Click End Day to advance to the next day.
 - Game ends after 3 weeks.
 ## Game Rules
